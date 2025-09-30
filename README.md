@@ -1,5 +1,5 @@
 # Neuropsych Database
-Repository for REDCap database code and materials to construct a Clinical Neuropsychology Assessment Database. 
+Repository for REDCap database structure and materials to construct a Clinical Neuropsychology Assessment Database. 
 
 You can find the XML structure for REDCap (upload and go); and the data dictionary. 
 
