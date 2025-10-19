@@ -3,6 +3,8 @@ You can use the calculator developed for this research by downloading a copy of 
 Enter scores into the green shaded boxes in the calculator.
 Please contact me here if you would like information about the back end of the calculator.
 It is licensed under a CC-BY-NC-SA license, so you can use it for non-commercial uses freely if you attribute it! :) 
+<img width="1586" height="466" alt="image" src="https://github.com/user-attachments/assets/c5cbc78a-7df5-48e2-9945-5dbfd9cbc684" />
+
 
 # Neuropsych Database
 Repository for REDCap database structure and materials to construct a Clinical Neuropsychology Assessment Database. 
