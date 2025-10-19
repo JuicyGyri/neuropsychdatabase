@@ -1,3 +1,9 @@
+# Download Calculator Above
+You can use the calculator developed for this research by downloading a copy of the xlsx (Excel) file. 
+Enter scores into the green shaded boxes in the calculator.
+Please contact me here if you would like information about the back end of the calculator.
+It is licensed under a CC-BY-NC-SA license, so you can use it for non-commercial uses freely if you attribute it! :) 
+
 # Neuropsych Database
 Repository for REDCap database structure and materials to construct a Clinical Neuropsychology Assessment Database. 
 
